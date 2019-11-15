@@ -1,3 +1,3 @@
-module github.com/nyushi/timeconv
+module github.com/nyushi/go-timeconv
 
 go 1.13
